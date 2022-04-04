@@ -1,0 +1,20 @@
+body{
+    background: url(../img/peakpx.1.jpg);
+    text-align: center;
+}
+h1{
+    color: whitesmoke;
+}
+h2{
+    color: grey ;
+}
+p{
+    color: azure;
+}
+button{
+    padding: 12px 40px;
+    color: rgb(209,226,220);
+    border: 2px soild red;
+    border-radius: 30px;
+    background: rgb(47,0,255);
+}
